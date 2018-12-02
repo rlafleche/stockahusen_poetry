@@ -1,5 +1,3 @@
-5
-
 
 #used for aleatoric quasi-intelligible poetry
 import numpy
